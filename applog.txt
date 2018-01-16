@@ -1,0 +1,178 @@
+INFO    2018-01-14 22:42:07,312 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:42:07,313 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:45:38,450 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:45:38,451 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:45:38,451 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:47:02,161 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:47:02,162 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:47:02,162 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:47:02,162 [main] Test_02  - Hllo,oworld
+INFO    2018-01-14 22:47:25,611 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:47:25,613 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:47:25,613 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:47:25,613 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-14 22:47:29,429 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:47:29,431 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:47:29,431 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:47:29,431 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-14 22:49:08,494 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:49:08,495 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:49:08,495 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:49:08,495 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-14 22:49:08,495 [main] Test_02  - HDeepaoooooworld
+INFO    2018-01-14 22:50:04,678 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:50:04,679 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:50:04,679 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:50:04,679 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-14 22:50:04,679 [main] Test_02  - HDeepaoooooworld
+INFO    2018-01-14 22:50:04,679 [main] Test_02  - dlrowoooooapeeDH
+INFO    2018-01-14 22:53:32,652 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:53:32,653 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:53:32,653 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:53:32,653 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-14 22:53:32,653 [main] Test_02  - HDeepaoooooworld
+INFO    2018-01-14 22:53:32,653 [main] Test_02  - dlrowoooooapeeDH
+INFO    2018-01-14 22:54:03,070 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:54:03,071 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:54:03,071 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:54:03,071 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-14 22:54:03,071 [main] Test_02  - HDeepaoooooworld
+INFO    2018-01-14 22:54:03,071 [main] Test_02  - dlrowoooooapeeDH
+INFO    2018-01-14 22:54:03,071 [main] Test_02  - J
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - a
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - v
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - a
+INFO    2018-01-14 22:54:03,072 [main] Test_02  -  
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - L
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - e
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - a
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - r
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - i
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - n
+INFO    2018-01-14 22:54:03,072 [main] Test_02  - g
+INFO    2018-01-14 22:57:48,795 [main] Test_02  - Hello,World
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - Hello,world
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - Hllo,world
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - HDeepaoooooworld
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - dlrowoooooapeeDH
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - J
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - a
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - v
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - a
+INFO    2018-01-14 22:57:48,796 [main] Test_02  -  
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - L
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - e
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - a
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - r
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - i
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - n
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - g
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - char0is J
+INFO    2018-01-14 22:57:48,796 [main] Test_02  - char1is a
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char2is v
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char3is a
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char4is  
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char5is L
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char6is e
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char7is a
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char8is r
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char9is i
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char10is n
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char11is g
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char12is  
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char13is m
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char14is a
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char15is t
+INFO    2018-01-14 22:57:48,797 [main] Test_02  - char16is h
+INFO    2018-01-14 23:20:20,439 [main] Test_02  - java cookbook
+INFO    2018-01-14 23:20:20,440 [main] Test_02  - JAVA COOKBOOK
+INFO    2018-01-14 23:20:20,441 [main] Test_02  - fail
+INFO    2018-01-15 07:21:32,210 [main] Test_02  - Java is great.
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - is great.
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - is
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - is great.
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - Java
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - is
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - great.
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - Token: Hello
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - Token: ,
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - Token:  
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - Token: World
+INFO    2018-01-15 07:21:32,211 [main] Test_02  - Token: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Token: of
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Token: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Token: Java
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Input: A|B|C|D
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output null was: null
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output null was: null
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Input: A||C|D
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output null was: null
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output null was: null
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Input: A|||D|E
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output null was: null
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 07:21:32,212 [main] Test_02  - Output | was: |
+INFO    2018-01-15 08:15:25,162 [main] Test_02  - Hello,World
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - Hello,world
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - Hllo,world
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - Hllo,oooooworld
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - HDeepaoooooworld
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - dlrowoooooapeeDH
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - J
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - a
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - v
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - a
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,163 [main] Test_02  -  
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - L
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - e
+INFO    2018-01-15 08:15:25,163 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - a
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - r
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - i
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - n
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - __________
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - g
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char0is J
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char1is a
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char2is v
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char3is a
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char4is  
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char5is L
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char6is e
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char7is a
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char8is r
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char9is i
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char10is n
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char11is g
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char12is  
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char13is m
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char14is a
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char15is t
+INFO    2018-01-15 08:15:25,164 [main] Test_02  - char16is h
+INFO    2018-01-15 08:57:56,844 [main] Test_File_handling  - /Users/dm/Code/JavaLearn
+INFO    2018-01-15 10:24:45,206 [main] Test_File_handling  - /Users/dm/Code/JavaLearn
+INFO    2018-01-15 10:24:45,206 [main] Test_File_handling  - /Users/dm/Code/JavaLearn/src/main/resourcesreadfile.txt
+INFO    2018-01-15 10:25:01,923 [main] Test_File_handling  - /Users/dm/Code/JavaLearn
+INFO    2018-01-15 10:25:01,924 [main] Test_File_handling  - /Users/dm/Code/JavaLearn/src/main/resources/readfile.txt
+INFO    2018-01-15 11:20:33,046 [main] Test_File_handling  - /Users/dm/Code/JavaLearn
+INFO    2018-01-15 11:20:33,047 [main] Test_File_handling  - /Users/dm/Code/JavaLearn/src/main/resources/
+INFO    2018-01-15 11:20:33,048 [main] Test_02  - 'filename' exists and it is a directory
